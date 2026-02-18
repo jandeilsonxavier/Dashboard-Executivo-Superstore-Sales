@@ -1,5 +1,7 @@
 # 📊 Superstore Analytics – Análise Estratégica de Rentabilidade e Descontos
 
+Power BI: https://jandeilsonxavier.short.gy/dashboard-superstore
+
 ## Visão Geral do Projeto
 
 Empresas de varejo frequentemente crescem em faturamento, mas nem sempre em rentabilidade.
@@ -116,7 +118,7 @@ Este projeto pode ser expandido com:
 - Construção de dashboards executivos  
 - Pensamento crítico aplicado a dados de varejo
 
-## 📎 Autor
+## Autor
 
 **Jose Jandeilson Xavier dos Santos**  
 Data Analyst | Business Intelligence Analyst  
