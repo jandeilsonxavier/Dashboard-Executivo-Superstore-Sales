@@ -1,6 +1,8 @@
 # 📊 Superstore Analytics – Análise Estratégica de Rentabilidade e Descontos
 
-Power BI: https://jandeilsonxavier.short.gy/dashboard-superstore
+![Layout dashboard](https://github.com/jandeilsonxavier/Dashboard-Executivo-Superstore-Sales/blob/be1c37bf610cb516de5250d8c482e3616ba8a3a5/Imagens/Dashboard.png)
+
+### Power BI: https://jandeilsonxavier.short.gy/dashboard-superstore 
 
 ## Visão Geral do Projeto
 
