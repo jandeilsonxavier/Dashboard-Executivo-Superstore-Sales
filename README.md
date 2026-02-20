@@ -35,7 +35,7 @@ Isso levou à investigação das seguintes hipóteses:
 
 ## Principais Insights
 
-### 1. Desconto vs Margem – Relação Crítica
+### 1️⃣. Desconto vs Margem – Relação Crítica
 
 A análise mostrou uma relação clara entre desconto e destruição de margem:
 
